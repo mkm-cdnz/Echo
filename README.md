@@ -7,7 +7,7 @@
 - Developed custom Python computer vision tools to generate facial/pose tracking overlays, creating a 'glitched echo' aesthetic, mirroring the song's themes
 
 ## Key Achievements
-- Translated abstract creative brief into technical solution in 2 weeks
+- Translated abstract creative brief into technical solution in 4 weeks
 - Built custom video processing pipeline using Python + MediaPipe
 - Delivered under tight budget constraints using open-source tools
 
