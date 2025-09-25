@@ -3,7 +3,7 @@
 [![Watch on YouTube](assets/Echo_thumbnail.png)](https://www.youtube.com/watch?v=UxYISq7wdTc)
 
 ## Project Summary
-- Collaborated with Aotearoa musician [Scarlett Lashes](https://www.instagram.com/scarlettlashes/ "Scarlett Lashes' Instagram") to create a machine vision-powered music video exploring digital identity.
+- Collaborated with Aotearoa musician [Scarlett Lashes](https://www.instagram.com/scarlettlashes/ "Scarlett Lashes' Instagram") to create a machine vision-powered music video exploring digital identity; the disconnect between the real self & one's filtered/curated online persona.
 - Developed custom Python computer vision tools to generate facial/pose tracking overlays, creating a 'glitched echo' aesthetic, mirroring the song's themes.
 
 > "[...] i really love the glitchy feel of it and how it has this creepy feel"
