@@ -28,8 +28,8 @@
 - Approximated lighting gels by surrounding the subject with LCD screens at max brightness, outputting desired color palette.
 - Patched a **Samsung Galaxy Z Fold** to my laptop, to take advantage of superior frame rate, aperture, FOV, etc versus laptop webcam.
 
-'''
-12MP Ultrawide Camera: 12mm, f/2.2 aperture, 123° field of view, 1.12µm pixels.
-'''
+
+> 12MP Ultrawide Camera: 12mm, f/2.2 aperture, 123° field of view, 1.12µm pixels.
+
 
 - I selected **Kdenlive** for all editing & post-production; it had comparable features to *DaVinci Resolve* with more forgiving system requirements & a slightly smoother learning curve.
