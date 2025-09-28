@@ -23,8 +23,8 @@
 - **Google Docs** for asynchronously capturing elicitation minutes, ideation discussions, PoC screenshots & tech demos, and client comments. 
 - I needed a way to overlay and interlace face/hand/body-detection landmarks with video files containing people. Hence, I whipped up **Echo.py**
 - Echo has two modes, (1) Live & (2) Batch 
- - **Live Mode** is for tweaking parameters/colours in real-time, allowing me to understand what the output would look like before committing to the lengthy processing/rendering sequence.
- - **Batch Mode** is for processing/rendering the overlays, and exporting them to a video file. Allowed me to import video files from any source(s), and not be constrained by my laptop's webcam. Provided flexibility, should we decide to return to the ensemble dancers + dynamic handheld camera storyboard idea.
+  - **Live Mode** is for tweaking parameters/colours in real-time, allowing me to understand what the output would look like before committing to the lengthy processing/rendering sequence.
+  - **Batch Mode** is for processing/rendering the overlays, and exporting them to a video file. Allowed me to import video files from any source(s), and not be constrained by my laptop's webcam. Provided flexibility, should we decide to return to the ensemble dancers + dynamic handheld camera storyboard idea.
 - Approximated lighting gels by surrounding the subject with LCD screens at max brightness, outputting desired color palette.
 - Patched a **Samsung Galaxy Z Fold** to my laptop, to take advantage of superior frame rate, aperture, FOV, etc versus laptop webcam.
 
